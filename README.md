@@ -1,20 +1,5 @@
 # Worklight-ObjectStore
 
-Worklight-ObjectStore is 
-A distributed object storage system designed to scale from a single machine
-to thousands of servers. Swift is optimized for multi-tenancy and high
-concurrency. Swift is ideal for backups, web and mobile content, and any other
-unstructured data that can grow without bound.
-
-Swift provides a simple, REST-based API fully documented at
-http://docs.openstack.org/.
-
-Swift was originally developed as the basis for Rackspace's Cloud Files and
-was open-sourced in 2010 as part of the OpenStack project. It has since grown
-to include contributions from many companies and has spawned a thriving
-ecosystem of 3rd party tools. Swift's contributors are listed in the AUTHORS
-file.
-
 ## Docs
 
 To build documentation install sphinx (`pip install sphinx`), run
